@@ -1,0 +1,30 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Ayush Kumar Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3",
+    "buffer": "^6.0.3",
+    "events": "^3.3.0",
+    "parcel": "^2.9.3",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0",
+    "util": "^0.12.5"
+  },
+  "dependencies": {
+    "core-js": "^3.31.0",
+    "fraction": "^0.2.0",
+    "fraction.js": "^4.2.0",
+    "fractional": "^1.0.0",
+    "icons": "^1.0.0",
+    "regenerator-runtime": "^0.13.11",
+    "sass": "^1.63.6"
+  }
+}
