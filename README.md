@@ -27,3 +27,5 @@ Check out the live demo of the Forkify web page .
 - CSS3
 - JavaScript (ES6+)
 - Forkify API
+- Java
+- Springboot
